@@ -17,6 +17,11 @@ The list contains only tools that are freely available to download and use (alth
 
 ## General Web Testing
 
+### Reverse Shells
+
+- [RevShells](https://www.revshells.com/)
+    - Very usefl tool for finding reverse shell scripts
+
 ### Web Proxies
 
 - [ZAP](https://www.zaproxy.org)
